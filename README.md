@@ -10,7 +10,7 @@ parameters do not need to be configured by the user:<br>
 <b>crc16_ccitt</b> for a 16-bit CRC defined in ITU-T recommendations
 <b>crc16_xmodem</b> for a 16-bit CRC used in the Xmodem protocol
 <b>crc32</b> for the CRC32 algorithm
-<b>crc32c</b> for the CRC32C algorithm
+<b>crc32c</b> for the CRC32C algorithm as used in SCTP
 </pre>
 
 <h3>C</h3>
